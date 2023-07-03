@@ -1,3 +1,5 @@
+mod process;
+
 fn main() {
-    println!("pwnst");
+    process::print_foo();
 }
